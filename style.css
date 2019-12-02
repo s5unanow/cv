@@ -1,0 +1,6 @@
+#skills td:nth-child(even) {
+    text-align: right;
+}
+form * {
+    margin: 10px;
+}
